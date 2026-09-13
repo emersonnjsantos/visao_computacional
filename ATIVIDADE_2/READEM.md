@@ -1,4 +1,4 @@
-# 👁️ Projeto: Suavização, Remoção de Ruído e Detecção de Bordas
+#  Projeto: Suavização, Remoção de Ruído e Detecção de Bordas
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emersonnjsantos/visao_computacional/blob/main/ATIVIDADE_1/visao_computacional_mini_dataset/notebooks/relatorio_atividade_2_projeto.ipynb)
 
